@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "1101e07166ffb4cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ca424bf19c670d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0f67ce1f4aafe01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trantor Central/Trantor Central 🌀.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trantor Central 🌀"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1770ebc388922bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "aea12b581256e28c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "663486066318010d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4363900379fab700",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8dc541c3a680a1d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a4852a433edceb3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ef6b7078c4e4d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fddf95f5e1510084",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PNB-1j1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PNB-1j1"
+            }
+          },
+          {
+            "id": "1e8d78a065788c3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "92f97f54854170d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nota Pendiente.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nota Pendiente"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e0f67ce1f4aafe01",
+  "lastOpenFiles": [
+    "Trantor Central/English Language/EL-1.md",
+    "Trantor Central/English Language/EL-1a.md",
+    "Trantor Central/Trantor Central 🌀.md",
+    "Trantor Central/Matemáticas/M-1.md",
+    "Trantor Central/Matemáticas/M-1a.md",
+    "Trantor Central/Python/P-1.md",
+    "Trantor Central/Python/P-1e.md",
+    "Trantor Central/Ciencias de la computación/CDLC-1.md",
+    "Trantor Central/Python/P-1e8.md",
+    "Trantor Central/Python/P-1e8f.md",
+    "Trantor Central/Python/P-1e8e.md",
+    "Trantor Central/Python/P-1e8d.md",
+    "Trantor Central/Python/P-1e8b.md",
+    "Trantor Central/Python/P-1e8c.md",
+    "Trantor Central/English Language/EL-1b.md",
+    "Trantor Central/Meditaciones y Pensamientos/MYP-1.md",
+    "Trantor Central/Meditaciones y Pensamientos/MYP-1b.md",
+    "Trantor Central/Meditaciones y Pensamientos/MYP-1b1.md",
+    "Trantor Central/Meditaciones y Pensamientos/MYP-1a.md",
+    "Trantor Central/English Language",
+    "Trantor Central/Meditaciones y Pensamientos/MYP-1a1.md",
+    "Trantor Central/Concepto/CNC-1.md",
+    "Trantor Central/Matemáticas/Aritmética/Números Reales/M-1a1c6a.md",
+    "Trantor Central/Matemáticas/Aritmética/Números Reales/M-1a1c6.md",
+    "Trantor Central/Matemáticas/Aritmética/Números Reales/M-1a1c5.md",
+    "Trantor Central/Matemáticas/Aritmética/Números Reales/M-1a1c4.md",
+    "Trantor Central/Matemáticas/Aritmética/Números Reales/M-1a1c3.md",
+    "Trantor Central/Meditaciones y Pensamientos",
+    "Trantor Central/Field Notes",
+    "bloque de código python",
+    "Trantor Central/Plantillas",
+    "Trantor Central/Python",
+    "Trantor Central/Ciencias de la computación/Básico",
+    "Trantor Central/CS",
+    "Trantor Central/Concepto",
+    "Trantor Central/Bibliografía",
+    "Code/C/Bulding a game/Value of n/valueOfN.png",
+    "Code/C/Bulding a game/Value of n/valueOfN.png",
+    "Code/C/Bulding a game/Hola Mundo/holaMundo.png",
+    "ray-so-export.png",
+    "Code/C/Bulding a game/BjarneStroustrup.jpg"
+  ]
+}

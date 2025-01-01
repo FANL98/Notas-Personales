@@ -1,0 +1,5 @@
+- Ciencias de la Computación 🧪: [[CDLC-1]]
+- English Language 🗣️: [[EL-1]] 
+- Matemáticas ✏️📚: [[M-1]]
+- Meditaciones y Pensamientos 🗿: [[MYP-1]]
+- Python 🐍: [[P-1]]

@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path: \"Trantor Central/Ciencias de la computación\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Trantor Central/English Language\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Trantor Central/Field Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14720594
+      }
+    },
+    {
+      "query": "path:\"Trantor Central/Matemáticas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15420733
+      }
+    },
+    {
+      "query": "path:\"Trantor Central/Meditaciones y Pensamientos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Trantor Central/Plantillas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path: \"Trantor Central/Python\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2646004
+      }
+    },
+    {
+      "query": "path:\"Trantor Central\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.6,
+  "nodeSizeMultiplier": 0.796315789473684,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.19533390000414563,
+  "close": true
+}
